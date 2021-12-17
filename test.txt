@@ -1,0 +1,5 @@
+4、git分支操作
+git branch xxx   #创建分支
+git branch -v    #查看分支
+git checkout  xx  #切换分支
+git merge  xxx   #把指定的分支合并到当前分支
